@@ -1,5 +1,5 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-# 「[DcSpamBot👮](https://t.me/DeCodeUpdate)」
+# 「[😈𝐓𝐇𝐄 𝐒𝐇𝐈𝐕 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋😈](https://t.me/tso_support)」
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝙰+𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖+𝚂𝚙𝚊𝚖𝙱𝚘𝚝+𝙾𝚙𝚎𝚗+𝚂𝚘𝚞𝚛𝚌𝚎;𝚠𝚛𝚒𝚝𝚝𝚎𝚗+𝙸𝚗+𝙿𝚢𝚝𝚑𝚘𝚗+𝚄𝚜𝚒𝚗𝚐+𝚙𝚢𝚛𝚘𝚐𝚛𝚊𝚖%E2%9D%A4%EF%B8%8F">
 </p> 
 
-![logo](https://telegra.ph/file/a9b56319322553da4b240.jpg)
+![logo](https://te.legra.ph/file/e9a22bfcd84d0a54ee62b.jpg)
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 # Hᴏsᴛɪɴɢ
@@ -19,9 +19,9 @@
 
 #### [THIS ALSO FOR HEROKU](https://heroku.com/deploy?template=https://github.com/TeamDeCode/SpamDeploy) 
 
-## What Is DcSpamBot
+## What Is TsoSpamBot
 
-<b>DcSpamBot Is An Pyrogram Bassed SpamBot That Spam In Telegram Groups And personal Chats, this bot is specially used by clan users when ever fights starts between two clan or between two users</b>
+<b>TsoSpamBot Is An Pyrogram Bassed SpamBot That Spam In Telegram Groups And personal Chats, this bot is specially used by clan users when ever fights starts between two clan or between two users</b>
 
 ## Is Safe To Deploy
 
@@ -75,6 +75,6 @@ Here are the vars In Bot
 
 # CᴏɴᴛʀɪBᴜᴛᴏʀꜱ
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=TeamDeCode/DcSpamBot)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=lordtso/TsoSpamBot)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
